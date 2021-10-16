@@ -95,7 +95,6 @@ export default function Home() {
           </Link>
           <button type="button">Carregar mais posts</button>
         </div>
-
       </main>
     </>
   );
